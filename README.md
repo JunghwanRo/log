@@ -1,5 +1,5 @@
 # To be DONE
-Summarize ICRA@40 interesting session.
+Summarize ICRA@40 interesting session. \
 Check Diagonal motor distance of models.
 
 # DONE
