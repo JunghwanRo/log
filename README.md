@@ -3,4 +3,4 @@ Summarize ICRA@40 interesting session.
 Check Diagonal motor distance of models.
 
 # DONE
-Check the narrow gap passage task with a simple setting. 
+Check the narrow gap passage task with a simple setting. (Run 115, FoldableDrone)
