@@ -1,4 +1,5 @@
 # To be DONE
+Check if there is a provided way to log variables during play.py \
 Summarize ICRA@40 interesting session. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
