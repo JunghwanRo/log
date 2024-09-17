@@ -1,5 +1,5 @@
 # To be DONE
-log of tasks done.
+Summarize ICRA@40 interesting session.
 
 # DONE
 Check the narrow gap passage task with a simple setting. 
