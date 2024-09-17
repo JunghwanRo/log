@@ -5,5 +5,6 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+DREAM Lab Meeting (24.09.17)
 Check the narrow gap passage task with a simple setting. (Run 115, FoldableDrone) \
 Check the Diagonal motor distance of models. (Reconfigurable ~44, Foldable > 60) \
