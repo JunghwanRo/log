@@ -1,5 +1,6 @@
 # To be DONE
 Summarize ICRA@40 interesting session. \
+Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 
 # DONE
