@@ -1,10 +1,11 @@
 # To be DONE
-Book ICRA@40 Accomodation \
+
 Check if there is a provided way to log variables during play.py \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
 
 # DONE
+Book ICRA@40 Accommodation. \
 Summarize ICRA@40 interesting session. \
 DREAM Lab Meeting (24.09.17) \
 Check the narrow gap passage task with a simple setting. (Run 115, FoldableDrone) \
