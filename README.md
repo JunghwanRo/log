@@ -1,11 +1,11 @@
 # To be DONE
-
-Check if there is a provided way to log variables during play.py \
+Make the active joint realistic. \
+Save log files, such as ROSBAG, with isaac sim. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
 
 # DONE
-
+Check if there is a provided way to log variables during play.py - DONE by connecting ROS2, and foxglove. \
 Book ICRA@40 Accommodation. \
 Summarize ICRA@40 interesting session. \
 DREAM Lab Meeting (24.09.17) \
