@@ -1,5 +1,6 @@
 # To be DONE
 Make the active joint realistic. \
+Check joint control options in Isaac Lab. \
 Save log files, such as ROSBAG, with isaac sim. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
