@@ -1,11 +1,11 @@
 # To be DONE
 Make the active joint realistic. \
-Check joint control options in Isaac Lab. \
 Save log files, such as ROSBAG, with isaac sim. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
 
 # DONE
+Check joint control options in Isaac Lab. (set_effort, set_velocity, set_pos) \
 Get Official Transcripts. \
 Check HW4 for Graduate Algorithms \
 Check if there is a provided way to log variables during play.py - DONE by connecting ROS2, and foxglove., Simulation Data Visualizer \
