@@ -1,4 +1,5 @@
 # To be DONE
+Get Official Transcripts. \
 Make the active joint realistic. \
 Save log files, such as ROSBAG, with isaac sim. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
