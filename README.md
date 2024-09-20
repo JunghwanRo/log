@@ -6,6 +6,7 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+Review Steffen's PhD defense preparation slides. \
 Check joint control options in Isaac Lab. (set_effort, set_velocity, set_pos) \
 Get Official Transcripts. \
 Check HW4 for Graduate Algorithms \
