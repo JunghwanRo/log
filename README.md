@@ -1,11 +1,11 @@
 # To be DONE
-Make Action smooth. \
 Make the active joint realistic. \
 Save log files, such as ROSBAG, with isaac sim. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
 
 # DONE
+Make Action smooth. - First, trying with simple action-prev_action difference penalty\
 Review Steffen's PhD defense preparation slides. \
 Check joint control options in Isaac Lab. (set_effort, set_velocity, set_pos) \
 Get Official Transcripts. \
