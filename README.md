@@ -1,4 +1,6 @@
 # To be DONE
+Make a 2-page slide for the SPEAR meeting. \
+Add the rotor motor state and twist to the log. \
 Check which part of the code prevents a smooth shutdown. \
 Make the active joint realistic. \
 Save log files, such as ROSBAG, with isaac sim. \
