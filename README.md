@@ -9,7 +9,8 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
-Make Action smooth. - First, trying with simple action-prev_action difference penalty\
+CS6515 writes a working version of the code for HW4. \
+Make Action smooth. - First, try with a simple action-prev_action difference penalty. \
 Review Steffen's PhD defense preparation slides. \
 Check joint control options in Isaac Lab. (set_effort, set_velocity, set_pos) \
 Get Official Transcripts. \
