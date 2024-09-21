@@ -1,4 +1,5 @@
 # To be DONE
+Book IELTS or TOEFL. \
 Make a 2-page slide for the SPEAR meeting. \
 Add the rotor motor state and twist to the log. \
 Check which part of the code prevents a smooth shutdown. \
