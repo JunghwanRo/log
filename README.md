@@ -2,6 +2,7 @@
 Book IELTS or TOEFL. \
 Make a 2-page slide for the SPEAR meeting. \
 Add the rotor motor state and twist to the log. \
+Train Hovering+O Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
 Make the active joint realistic. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
