@@ -1,5 +1,4 @@
 # To be DONE
-Check the schedule of ICRA@40 and make proper plan. \
 Book IELTS or TOEFL. \
 Make a 2-page slide for the SPEAR meeting. \
 Add the rotor motor state and twist to the log. \
@@ -9,6 +8,8 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+Check the one-page summaries of all keynotes @ ICRA40. \
+Check the schedule of ICRA@40 and make proper plan. \
 Save log files, such as ROSBAG, with isaac sim. - This was done, but to record actions as well, anyway, I had to write a code for saving a CSV.\
 Request Meetings for the Swiss Robotics Day. \
 CS6515 writes a working version of the code for HW4. \
