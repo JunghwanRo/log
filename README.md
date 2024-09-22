@@ -9,6 +9,7 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+Request Meetings for the Swiss Robotics Day. \
 CS6515 writes a working version of the code for HW4. \
 Make Action smooth. - First, try with a simple action-prev_action difference penalty. \
 Review Steffen's PhD defense preparation slides. \
