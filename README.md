@@ -1,4 +1,5 @@
 # To be DONE
+Check the schedule of ICRA@40 and make proper plan. \
 Book IELTS or TOEFL. \
 Make a 2-page slide for the SPEAR meeting. \
 Add the rotor motor state and twist to the log. \
