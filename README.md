@@ -10,6 +10,7 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+ICRA@40. \
 Check the one-page summaries of all keynotes @ ICRA40. \
 Check the schedule of ICRA@40 and make proper plan. \
 Save log files, such as ROSBAG, with isaac sim. - This was done, but to record actions as well, anyway, I had to write a code for saving a CSV.\
