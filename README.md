@@ -8,7 +8,7 @@ Check which part of the code prevents a smooth shutdown. \
 Make the active joint realistic. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
 
-
+ 
 # DONE
 ICRA@40. \
 Check the one-page summaries of all keynotes @ ICRA40. \
