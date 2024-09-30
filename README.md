@@ -4,7 +4,7 @@ Make action smooth. \
 Book IELTS or TOEFL. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
-Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5)
+Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
  
 # DONE
