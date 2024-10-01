@@ -1,5 +1,4 @@
 # To be DONE
-Add the rotor motor state and twist to the log. \
 Make action smooth. \
 Book IELTS or TOEFL. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
@@ -9,6 +8,7 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 # DONE
+Add the rotor motor state and twist to the log. \
 Check the trained data and visualize it with an ipynb file. \
 Make the active joint realistic. \
 Make a 2-page slide for the SPEAR meeting. \
