@@ -1,4 +1,5 @@
 # To be DONE
+Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Make action smooth. \
 Book IELTS or TOEFL. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
