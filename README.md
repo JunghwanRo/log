@@ -1,7 +1,6 @@
 # To be DONE
 Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Make action smooth. \
-Book IELTS or TOEFL. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
 Modularize the rewards so we can turn it on and off. \
@@ -10,6 +9,7 @@ Change to Norm of everything (Position, Orientation). \
 
 
 # DONE
+Book IELTS or TOEFL. \
 Add the rotor motor state and twist to the log. \
 Check the trained data and visualize it with an ipynb file. \
 Make the active joint realistic. \
