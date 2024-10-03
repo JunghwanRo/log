@@ -1,4 +1,5 @@
 # To be DONE
+Change the name of the graph axis. \
 Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
