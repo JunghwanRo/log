@@ -1,6 +1,6 @@
 # To be DONE
+Read paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments". \
 Change the name of the graph axis. \
-Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
@@ -10,6 +10,7 @@ Change to Norm of everything (Position, Orientation). \
 
 
 # DONE
+Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Meeting with Luis for IROS Poster. \
 Book IELTS or TOEFL. \
 Add the rotor motor state and twist to the log. \
