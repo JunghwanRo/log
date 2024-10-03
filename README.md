@@ -9,6 +9,7 @@ Change to Norm of everything (Position, Orientation). \
 
 
 # DONE
+Meeting with Luis for IROS Poster. \
 Book IELTS or TOEFL. \
 Add the rotor motor state and twist to the log. \
 Check the trained data and visualize it with an ipynb file. \
