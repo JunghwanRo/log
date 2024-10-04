@@ -1,8 +1,7 @@
 # To be DONE
 Connect WandB to rl_games. \
-Read paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments". \
-Change the name of the graph axis. \
-More realistic servomotor, rotor. \
+Read the paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments." \
+More realistic servomotor rotor. \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
@@ -12,6 +11,7 @@ Change to Norm of everything (Position, Orientation). \
 
 
 # DONE
+Change the name of the graph axis. \
 Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
 Meeting with Luis for IROS Poster. \
 Book IELTS or TOEFL. \
