@@ -1,4 +1,5 @@
 # To be DONE
+Connect WandB to rl_games. \
 Read paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments". \
 Change the name of the graph axis. \
 More realistic servomotor, rotor. \
