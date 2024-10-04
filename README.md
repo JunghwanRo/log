@@ -1,6 +1,7 @@
 # To be DONE
 Read paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments". \
 Change the name of the graph axis. \
+More realistic servomotor, rotor. \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
