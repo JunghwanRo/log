@@ -1,4 +1,5 @@
 # To be DONE
+CS6515 HW 5. \
 Connect WandB to rl_games. \
 More realistic servomotor rotor. \
 Make action smooth. \
@@ -10,6 +11,7 @@ Change to Norm of everything (Position, Orientation). \
 
 
 # DONE
+CS6515 Quiz 4. \
 Read the paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments." \
 Change the name of the graph axis. \
 Read paper "Learning Quadruped Locomotion Using Differentiable Simulation". \
