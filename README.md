@@ -1,4 +1,5 @@
 # To be DONE
+Get some research ideas at IROS2024. \
 CS6515 HW 5. \
 Connect WandB to rl_games. \
 More realistic servomotor rotor. \
