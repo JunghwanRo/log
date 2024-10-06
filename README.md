@@ -1,4 +1,5 @@
 # To be DONE
+Prepare for the Lunch meeting. \
 Get some research ideas at IROS2024. \
 CS6515 HW 5. \
 Connect WandB to rl_games. \
