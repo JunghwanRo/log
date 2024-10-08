@@ -1,7 +1,4 @@
 # To be DONE
-Prepare for the Lunch meeting. \
-Get some research ideas at IROS2024. \
-CS6515 HW 5. \
 Connect WandB to rl_games. \
 More realistic servomotor rotor. \
 Make action smooth. \
@@ -10,9 +7,12 @@ Check which part of the code prevents a smooth shutdown. \
 Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 Change to Norm of everything (Position, Orientation). \
+Get some research ideas at IROS2024. \
 
 
 # DONE
+CS6515 HW 5. \
+Prepare for the Lunch meeting. \
 CS6515 Quiz 4. \
 Read the paper "Agri-fly: simulator for uncrewed aerial vehicle flight in agricultural environments." \
 Change the name of the graph axis. \
