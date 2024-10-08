@@ -1,4 +1,5 @@
 # To be DONE
+Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
 Check the rl_games performance after matching parameters with rsl_rl. \
 Check the rsl_rl, if it is possible to clip action inside the framework. \
 Connect WandB to rl_games. \
