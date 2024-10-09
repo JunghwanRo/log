@@ -1,5 +1,4 @@
 # To be DONE
-Update the Issac Lab to 1.2.0 \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
 Connect WandB to rl_games. \
 More realistic servomotor rotor. \
@@ -13,6 +12,7 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+Update the Issac Lab to 1.2.0 \
 Check the rsl_rl, if it is possible to clip action inside the framework. \
 Check the rl_games performance after matching parameters with rsl_rl. \
 CS6515 HW 5. \
