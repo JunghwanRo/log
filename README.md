@@ -1,4 +1,6 @@
 # To be DONE
+Watch Optional Lecture Videos. \
+Watch MIT-WHOI Info Video. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
 Connect WandB to rl_games. \
 More realistic servomotor rotor. \
