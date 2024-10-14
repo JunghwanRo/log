@@ -1,8 +1,8 @@
 # To be DONE
+Prepare 1 min video for ME. \
+Read the application process. \
 Watch Optional Lecture Videos. \
-Watch MIT-WHOI Info Video. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-Connect WandB to rl_games. \
 More realistic servomotor rotor. \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
@@ -14,6 +14,8 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+Connect WandB to rl_games. This approach was canceled, and still using rsl-rl. \
+Watch MIT-WHOI Info Video. \
 Update the Issac Lab to 1.2.0 \
 Check the rsl_rl, if it is possible to clip action inside the framework. \
 Check the rl_games performance after matching parameters with rsl_rl. \
