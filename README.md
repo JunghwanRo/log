@@ -1,4 +1,5 @@
 # To be DONE
+IROS 2024 dine fee, taxi fee. \
 Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
