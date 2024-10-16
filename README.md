@@ -3,7 +3,7 @@ Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-More realistic servomotor rotor. \
+More realistic servomotor. \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
