@@ -1,7 +1,5 @@
 # To be DONE
-Update Prof. Cedric on the current situation. \
-Update Prof. Raphael on the current situation. \
-IROS 2024 dining fee, taxi fee. \
+IROS 2024 taxi fee for rui. \
 Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
@@ -17,6 +15,8 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+Update Prof. Cedric on the current situation. \
+Update Prof. Raphael on the current situation. \
 Connect WandB to rl_games. This approach was canceled, and still using rsl-rl. \
 Watch MIT-WHOI Info Video. \
 Update the Issac Lab to 1.2.0 \
