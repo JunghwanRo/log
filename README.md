@@ -1,6 +1,6 @@
 # To be DONE
 Update Prof. Cedric on the current situation. \
-Update Prof. Raphael on the current situation. \
+Update Prof. Raphael on the current situation. \ 
 IROS 2024 dining fee, taxi fee. \
 Prepare 1 min video for ME. \
 Read the application process. \
