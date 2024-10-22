@@ -1,5 +1,6 @@
 # To be DONE
-Morph Hovering. \
+Morph Hovering Task. \
+Morph Trajectory Tracking. \
 IROS 2024 taxi fee for rui. \
 Prepare 1 min video for ME. \
 Read the application process. \
