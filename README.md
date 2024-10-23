@@ -1,10 +1,10 @@
 # To be DONE
+External Disturbance. \
 IROS 2024 taxi fee for rui. \
 Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
 Modularize the rewards so we can turn it on and off. \
@@ -14,6 +14,7 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+Make action smooth. \
 More realistic servomotor. \
 Morph Hovering Task. \
 Morph Trajectory Tracking. \
