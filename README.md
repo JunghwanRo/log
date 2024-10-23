@@ -1,12 +1,9 @@
 # To be DONE
-Morph Hovering Task. \
-Morph Trajectory Tracking. \
 IROS 2024 taxi fee for rui. \
 Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-More realistic servomotor. \
 Make action smooth. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
@@ -17,6 +14,9 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+More realistic servomotor. \
+Morph Hovering Task. \
+Morph Trajectory Tracking. \
 Update Prof. Cedric on the current situation. \
 Update Prof. Raphael on the current situation. \
 Connect WandB to rl_games. This approach was canceled, and still using rsl-rl. \
