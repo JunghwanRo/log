@@ -1,6 +1,5 @@
 # To be DONE
 omni.isaac.lab.utils.math.random_yaw_orientation. \
-External Disturbance. \
 Prepare 1 min video for ME. \
 Read the application process. \
 Watch Optional Lecture Videos. \
@@ -14,6 +13,7 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+External Disturbance. \
 IROS 2024 taxi fee for rui. \
 Make action smooth. \
 More realistic servomotor. \
