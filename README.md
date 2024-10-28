@@ -1,4 +1,6 @@
 # To be DONE
+Add benefits to cross the gap. \
+Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
 Read the application process. \
