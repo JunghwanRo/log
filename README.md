@@ -1,4 +1,5 @@
 # To be DONE
+Change Progress reward. \
 Add benefits to cross the gap. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
