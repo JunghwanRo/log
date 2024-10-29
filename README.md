@@ -1,4 +1,5 @@
 # To be DONE
+Collision penalty should be bigger for bigger contact force. \
 Change Progress reward. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
