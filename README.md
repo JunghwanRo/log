@@ -1,6 +1,5 @@
 # To be DONE
 Change Progress reward. \
-Add benefits to cross the gap. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
@@ -15,6 +14,7 @@ Get some research ideas at IROS2024. \
 
 
 # DONE
+Add benefits to cross the gap. \
 External Disturbance. \
 IROS 2024 taxi fee for rui. \
 Make action smooth. \
