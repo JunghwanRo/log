@@ -1,20 +1,21 @@
 # To be DONE
 Collision penalty should be bigger for bigger contact force. \
-Change Progress reward. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
 Read the application process. \
+Write SOP. \
+Prepare document for Captain. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-Train Hovering+Yaw Task, and check the validity of acquired data. \
-Check which part of the code prevents a smooth shutdown. \
 Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
-Change to Norm of everything (Position, Orientation). \
-Get some research ideas at IROS2024. \
-
 
 # DONE
+Change Progress reward. \
+Train Hovering+Yaw Task, and check the validity of acquired data. \
+Check which part of the code prevents a smooth shutdown. \
+Change to Norm of everything (Position, Orientation). \
+Get some research ideas at IROS2024. \
 Add benefits to cross the gap. \
 External Disturbance. \
 IROS 2024 taxi fee for rui. \
