@@ -12,6 +12,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Do not forget to record failure vidoes. \
 Change Progress reward. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
 Check which part of the code prevents a smooth shutdown. \
