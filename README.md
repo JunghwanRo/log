@@ -1,4 +1,5 @@
 # To be DONE
+Check Action smoothness implementation. \
 Waypoint Task. \
 Collision penalty should be bigger for bigger contact force. \
 Curriculum Learning. \
