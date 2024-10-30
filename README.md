@@ -1,4 +1,5 @@
 # To be DONE
+Waypoint Task. \
 Collision penalty should be bigger for bigger contact force. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
