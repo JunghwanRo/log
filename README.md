@@ -1,4 +1,5 @@
 # To be DONE
+Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Waypoint Task. \
 Collision penalty should be bigger for bigger contact force. \
