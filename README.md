@@ -1,4 +1,5 @@
 # To be DONE
+Send email to Andreas. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Waypoint Task. \
