@@ -1,5 +1,4 @@
 # To be DONE
-Send email to Andreas. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Waypoint Task. \
@@ -15,6 +14,8 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Participate the SPEAR integration meeting. \
+Send email to Andreas. \
 Do not forget to record failure vidoes. \
 Change Progress reward. \
 Train Hovering+Yaw Task, and check the validity of acquired data. \
