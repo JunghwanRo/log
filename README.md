@@ -1,5 +1,6 @@
 # To be DONE
-
+Minor task selection in Waypoints. \ 
+Generate reverse-programmable joint model of Bucki. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Collision penalty should be bigger for bigger contact force. \
