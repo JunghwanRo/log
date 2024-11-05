@@ -1,19 +1,20 @@
 # To be DONE
+
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
-Waypoint Task. \
 Collision penalty should be bigger for bigger contact force. \
 Curriculum Learning. \
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
 Read the application process. \
-Write SOP. \
+Write SOP draft. \
 Prepare document for Captain. \
 Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
 Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Waypoint Task. \
 Participate the SPEAR integration meeting. \
 Send email to Andreas. \
 Do not forget to record failure vidoes. \
