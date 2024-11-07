@@ -1,4 +1,5 @@
 # To be DONE
+Find best joint setting for Up-Fold drone. \
 Minor task selection in Waypoints. \ 
 Generate reverse-programmable joint model of Bucki. \
 Add task specific cfg file for each task. \
