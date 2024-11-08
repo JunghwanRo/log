@@ -16,6 +16,9 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Reward modified 0.20 - 222 \
+Training with 0.35 - 219 \
+Training with rigid twin - 220 \
 Waypoint Task. \
 Participate the SPEAR integration meeting. \
 Send email to Andreas. \
