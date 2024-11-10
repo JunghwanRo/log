@@ -1,5 +1,5 @@
 # To be DONE
-Find best joint setting for Up-Fold drone. \
+Make real rigid twin with fixed joints. \
 Minor task selection in Waypoints. \ 
 Generate reverse-programmable joint model of Bucki. \
 Add task specific cfg file for each task. \
@@ -16,6 +16,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Find best joint setting for Up-Fold drone. \
 LOR check. \
 Reward modified rigid - 223 \
 Reward modified 0.20 - 222 \
