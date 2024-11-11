@@ -16,6 +16,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+thrust to weight ratio 2.0 upfold - 226, 11-11-08-55 \
 thrust to weight ratio 2.0 rigid - 225 \
 Find best joint setting for Up-Fold drone. \
 LOR check. \
