@@ -1,4 +1,5 @@
 # To be DONE
+Novel design, to tilt without baselink. \
 Make real rigid twin with fixed joints. \
 Minor task selection in Waypoints. \ 
 Generate reverse-programmable joint model of Bucki. \
