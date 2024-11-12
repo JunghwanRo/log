@@ -19,6 +19,8 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+upfold 0.2 - 237, 1m\
+upfold rigid - 236, 1m\
 seesaw rigid - 231, 11-12-00-10 \
 seesaw passive 0.04, 0.04 - 229, 11-11-21-00 \
 thrust to weight ratio 2.0 upfold - 226, 11-11-08-55 \
