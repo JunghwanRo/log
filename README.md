@@ -1,4 +1,6 @@
 # To be DONE
+Seesaw fixed range compete. \
+Prepare for the weekly update. \
 Novel design, to tilt without baselink. \
 Make real rigid twin with fixed joints. \
 Minor task selection in Waypoints. \ 
