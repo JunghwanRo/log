@@ -1,4 +1,5 @@
 # To be DONE
+Make identical upfold design. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Collision penalty should be bigger for bigger contact force. \
