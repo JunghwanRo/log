@@ -19,6 +19,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+upfold rigid changed to y axis RE - 240 \
 upfold 0.2 changed to y axis RE - 240 \
 upfold rigid changed to y axis - 239 \
 upfold 0.2 changed to y axis - 238 \
