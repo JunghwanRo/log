@@ -1,10 +1,4 @@
 # To be DONE
-Seesaw fixed range compete. \
-Prepare for the weekly update. \
-Novel design, to tilt without baselink. \
-Make real rigid twin with fixed joints. \
-Minor task selection in Waypoints. \ 
-Generate reverse-programmable joint model of Bucki. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Collision penalty should be bigger for bigger contact force. \
@@ -19,6 +13,12 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Generate reverse-programmable joint model of Bucki. \
+Seesaw fixed range compete. \
+Prepare for the weekly update. \
+Novel design, to tilt without baselink. \
+Make real rigid twin with fixed joints. \
+Minor task selection in Waypoints. \ 
 upfold rigid changed to y axis RE - 241 \
 upfold 0.2 changed to y axis RE - 240 \
 upfold rigid changed to y axis - 239 \
