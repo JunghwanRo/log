@@ -1,5 +1,4 @@
 # To be DONE
-Make a symmetric upfold design. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Collision penalty should be bigger for bigger contact force. \
@@ -14,6 +13,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Make a symmetric upfold design. \
 upfold 0.2 1m terminate back and forth - 256. \
 upfold rigid 1m terminate back and forth - 255. \
 Generate reverse-programmable joint model of Bucki. \
