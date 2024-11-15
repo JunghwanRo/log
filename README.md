@@ -13,6 +13,8 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+upfold 0.2 0.5 m terminate - 259. \
+upfold rigid 0.5m terminate - 258. \
 upfold rigid 1m terminate back and forth RE - 257. \
 Make a symmetric upfold design. \
 upfold 0.2 1m terminate back and forth - 256. \
