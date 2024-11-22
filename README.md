@@ -2,7 +2,7 @@
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
 Collision penalty should be bigger for bigger contact force. \
-Curriculum Learning. \
+Curriculum Learning. \ 
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
 Read the application process. \
