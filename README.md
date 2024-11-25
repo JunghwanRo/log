@@ -1,7 +1,9 @@
 # To be DONE
+Active joint general task. \
+Orientation Target for waypoint task. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
-Collision penalty should be bigger for bigger contact force. \
+Collision penalty should be bigger for bigger contact force? \
 Curriculum Learning. \ 
 omni.isaac.lab.utils.math.random_yaw_orientation. \
 Prepare 1 min video for ME. \
