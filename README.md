@@ -15,6 +15,8 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+upfold rigid - 270. \
+upfold programmable - 269. \
 foldabledrone fix - 267. \
 foldabledrone active - 266. \
 upfold 0.2 0.5 m terminate - 259. \
