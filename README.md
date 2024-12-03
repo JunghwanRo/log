@@ -1,5 +1,5 @@
 # To be DONE
-Active joint general task. \
+Angular Drive Check. \
 Orientation Target for waypoint task. \
 Add task specific cfg file for each task. \
 Check Action smoothness implementation. \
@@ -15,6 +15,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
+Active joint general task. \
 Thesis submission. \
 upfold rigid - 272. \
 upfold programmable - 271. \
