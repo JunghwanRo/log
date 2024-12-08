@@ -15,7 +15,7 @@ Modularize the rewards so we can turn it on and off. \
 Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
 
 # DONE
-random waypoint task, active - 290. \
+random waypoint task, active - 291. \
 random waypoint task, rigid - 289. \
 square task, 1m, x bar configuration active better trained- 279. \
 square task, 1m, x bar configuration active - 278. \
