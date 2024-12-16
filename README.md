@@ -20,7 +20,7 @@ Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now 
 
 
 
-# DONE
+# DONE 
 random waypoint task, active - 291. \
 random waypoint task, rigid - 289. \
 square task, 1m, x bar configuration active better trained- 279. \
