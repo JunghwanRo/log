@@ -1,4 +1,5 @@
 # To be DONE
+Check Mass Change and momentum Change works in the GPU Pipeline. \
 Angular Drive Check. \
 Orientation Target for waypoint task. \
 Add task specific cfg file for each task. \
