@@ -1,7 +1,7 @@
 # To be DONE
 Read the TEAMS comment by Prof. Mirko. \
 Understand Added Mass. \
-Implement Drag. \
+Implement Drag.
 
 
 
