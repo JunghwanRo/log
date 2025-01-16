@@ -3,6 +3,7 @@ Read the TEAMS comment by Prof. Mirko. \
 Understand Added Mass. \
 Implement Drag.
 Implement jet propulsion. (+ add water_tank as an observation). \
+Isaac Lab Explanation in Korean maybe? \
 
 
 # DONE 
