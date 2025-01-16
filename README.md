@@ -7,6 +7,7 @@ Isaac Lab Explanation in Korean maybe? \
 Make a figure explaining agent and isaac lab framework. \
 Have fun with Genesis Simulator. \
 Check Reference Architecture of Isaac Lab. \
+Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
 ### 2025.Jan.16
