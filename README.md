@@ -6,6 +6,7 @@ Implement jet propulsion. (+ add water_tank as an observation). \
 Isaac Lab Explanation in Korean maybe? \
 Make a figure explaining agent and isaac lab framework. \
 Have fun with Genesis Simulator. \
+Check Reference Architecture of Isaac Lab. \
 
 # DONE 
 ### 2025.Jan.16
