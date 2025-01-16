@@ -1,23 +1,7 @@
 # To be DONE
-Check Mass Change and momentum Change works in the GPU Pipeline. \
-Angular Drive Check. \
-Orientation Target for waypoint task. \
-Add task specific cfg file for each task. \
-Check Action smoothness implementation. \
-Collision penalty should be bigger for bigger contact force? \
-Curriculum Learning. \ 
-omni.isaac.lab.utils.math.random_yaw_orientation. \
-Prepare 1 min video for ME. \
-Read the application process. \
-Write SOP draft. \
-Prepare document for Captain. \
-Check the franka_cabinet_env.py example to optimize the narrow gap passage. \
-Modularize the rewards so we can turn it on and off. \
-Reading Between Sea and Sky: Aerial Aquatic Locomotion in Miniature Robots (Now on Section 1.1.5) \
-
-
-./isaaclab.sh -p source/standalone/workflows/rsl_rl/train.py --task Isaac-Morphrotor-Waypoints-Direct-v0 --headless
-./isaaclab.sh -p source/standalone/workflows/rsl_rl/play.py --task Isaac-Morphrotor-Waypoints-Direct-v0 --num_envs 64 --load_run 2024-12-06_23-26-44 --checkpoint model_9999.pt
+Read the TEAMS comment by Prof. Mirko. \
+Understand Added Mass. \
+Implement Drag. \
 
 
 
