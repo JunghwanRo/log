@@ -1,5 +1,5 @@
 # To be DONE
-Read the TEAMS comment by Prof. Mirko. \
+
 Understand Added Mass. \
 Implement Drag.
 Implement jet propulsion. (+ add water_tank as an observation). \
@@ -7,6 +7,9 @@ Isaac Lab Explanation in Korean maybe? \
 
 
 # DONE 
+### 2025.Jan.16
+Read the TEAMS comment by Prof. Mirko. It was about squid evolution, to adapt itself for flight. \
+### ~ 2025.Jan.15
 random waypoint task, active - 291. \
 random waypoint task, rigid - 289. \
 square task, 1m, x bar configuration active better trained- 279. \
