@@ -1,5 +1,6 @@
 # To be DONE
 
+Check UUV simulator detail. \
 Understand Added Mass. \
 Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
