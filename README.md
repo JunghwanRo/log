@@ -1,16 +1,17 @@
 # To be DONE
 
 Understand Added Mass. \
-Implement Drag.
+Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
-Isaac Lab Explanation in Korean maybe? \
-Make a figure explaining agent and isaac lab framework. \
-Have fun with Genesis Simulator. \
-Check Reference Architecture of Isaac Lab. \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
+Watch CES 2025 Keynote. \
 
 # DONE 
 ### 2025.Jan.16
+Make a figure explaining agent and isaac lab framework. \
+Have fun with Genesis Simulator. \
+Check Reference Architecture of Isaac Lab. \
+Isaac Lab Explanation in Korean maybe? \
 Read the TEAMS comment by Prof. Mirko. It was about squid evolution, to adapt itself for flight. \
 ### ~ 2025.Jan.15
 random waypoint task, active - 291. \
