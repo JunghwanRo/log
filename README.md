@@ -5,9 +5,11 @@ Understand Added Mass. \
 Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
-Watch CES 2025 Keynote. \
+Learn OpenUSD from Nvidia Traning. \
 
 # DONE 
+### 2025.Jan.19
+Watch CES 2025 Keynote. \
 ### 2025.Jan.16
 Make a figure explaining agent and isaac lab framework. \
 Have fun with Genesis Simulator. \
