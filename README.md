@@ -1,11 +1,13 @@
 # To be DONE
 
-Make thruster to one, add 2DOF revolute joint. \
+Check if set_mass function works in GPU pipeline. \
+Divide Squid into upper/lower body. \
 Implement jet propulsion. (+ add water_tank as an observation). \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
 ### 2025.Jan.21
+Make thruster to one, add 2DOF revolute joint. \
 Check UUV simulator detail. \
 Implement Drag. \
 
