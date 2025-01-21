@@ -1,11 +1,14 @@
 # To be DONE
 
-Check UUV simulator detail. \
-Implement Drag. \
+Make thruster to one, add 2DOF revolute joint. \
 Implement jet propulsion. (+ add water_tank as an observation). \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
+### 2025.Jan.21
+Check UUV simulator detail. \
+Implement Drag. \
+
 ### 2025.Jan.20
 Check force field extension for isaac sim. \
 Finish NVIDIA training course 1, Learn OpenUSD. \
