@@ -1,5 +1,6 @@
 # To be DONE
 
+Check IsaacLab action examples. \
 Check if set_mass function works in GPU pipeline. \
 Divide Squid into upper/lower body. \
 Implement jet propulsion. (+ add water_tank as an observation). \
