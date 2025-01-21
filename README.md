@@ -1,6 +1,5 @@
 # To be DONE
 
-Check force field extension for isaac sim. \
 Check UUV simulator detail. \
 Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
@@ -8,6 +7,7 @@ Think about the super easy prototype to use as a test robot. To deploy a trained
 
 # DONE 
 ### 2025.Jan.20
+Check force field extension for isaac sim. \
 Finish NVIDIA training course 1, Learn OpenUSD. \
 Finish NVIDIA training course 2, Learn OpenUSD. \
 Proteus Meeting. \
