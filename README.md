@@ -1,5 +1,6 @@
 # To be DONE
 
+Check force field extension for isaac sim. \
 Check UUV simulator detail. \
 Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
