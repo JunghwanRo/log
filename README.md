@@ -1,6 +1,6 @@
 # To be DONE
 
-Check IsaacLab action examples. \
+Check Gym spaces for the action space. \
 Check if set_mass function works in GPU pipeline. \
 Divide Squid into upper/lower body. \
 Implement jet propulsion. (+ add water_tank as an observation). \
@@ -8,6 +8,7 @@ Think about the super easy prototype to use as a test robot. To deploy a trained
 
 # DONE 
 ### 2025.Jan.21
+Check IsaacLab action examples. \
 Make thruster to one, add 2DOF revolute joint. \
 Check UUV simulator detail. \
 Implement Drag. \
