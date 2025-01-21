@@ -1,12 +1,16 @@
 # To be DONE
 
-Finish NVIDIA training course 1, Learn OpenUSD. \
 Check UUV simulator detail. \
 Implement Drag. \
 Implement jet propulsion. (+ add water_tank as an observation). \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
+### 2025.Jan.20
+Finish NVIDIA training course 1, Learn OpenUSD. \
+Finish NVIDIA training course 2, Learn OpenUSD. \
+Proteus Meeting. \
+Safety Instruction leaning. \
 ### 2025.Jan.19
 Watch CES 2025 Keynote. \
 Understand Added Mass. \
