@@ -1,13 +1,14 @@
 # To be DONE
 
+Make an immigrant task for squid. \
 Check Gym spaces for the action space. \
 Check if set_mass function works in GPU pipeline. \
-Divide Squid into upper/lower body. \
-Implement jet propulsion. (+ add water_tank as an observation). \
+Implement jet propulsion. (+ add water_tank as an observation, etc.). \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
 ### 2025.Jan.22
+Divide Squid into upper/lower body. \
 Add visualization for thrust. \
 
 ### 2025.Jan.21
