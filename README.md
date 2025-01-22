@@ -1,5 +1,6 @@
 # To be DONE
 
+Add visualization for thrust. \
 Check Gym spaces for the action space. \
 Check if set_mass function works in GPU pipeline. \
 Divide Squid into upper/lower body. \
