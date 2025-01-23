@@ -1,15 +1,19 @@
 # To be DONE
 
-Make an immigrant task for squid. \
-Check Gym spaces for the action space. \
-Check if set_mass function works in GPU pipeline. \
+Lab Meeting. \
+Check the RANS framework, and how it is handling the discrete action. \
 Implement jet propulsion. (+ add water_tank as an observation, etc.). \
-Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
 # DONE 
+### 2025.Jan.23
+Check if the set_mass function works in the GPU pipeline. -> It worked badly with GPU. \
+Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
+
 ### 2025.Jan.22
 Divide Squid into upper/lower body. \
 Add visualization for thrust. \
+Make an immigrant task for squid. \
+Check Gym spaces for the action space. \
 
 ### 2025.Jan.21
 Check IsaacLab action examples. \
@@ -23,16 +27,19 @@ Finish NVIDIA training course 1, Learn OpenUSD. \
 Finish NVIDIA training course 2, Learn OpenUSD. \
 Proteus Meeting. \
 Safety Instruction leaning. \
+
 ### 2025.Jan.19
 Watch CES 2025 Keynote. \
 Understand Added Mass. \
 Learn OpenUSD from Nvidia Traning. \
+
 ### 2025.Jan.16
 Make a figure explaining agent and isaac lab framework. \
 Have fun with Genesis Simulator. \
 Check Reference Architecture of Isaac Lab. \
 Isaac Lab Explanation in Korean maybe? \
 Read the TEAMS comment by Prof. Mirko. It was about squid evolution, to adapt itself for flight. \
+
 ### ~ 2025.Jan.15
 random waypoint task, active - 291. \
 random waypoint task, rigid - 289. \
