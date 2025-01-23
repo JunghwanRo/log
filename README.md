@@ -2,6 +2,8 @@
 
 Check the RANS framework, and how it is handling the discrete action. \
 Implement water tank observation and use and charge of it. \
+Implement drag in the air. \
+Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1 page slide for Jan.31st. \ 
 Lab Meeting. \
 Check if current setting is working well with WandB. \
