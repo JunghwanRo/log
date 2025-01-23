@@ -1,5 +1,6 @@
 # To be DONE
 
+Prepare 1 page slide for Jan.31st. \ 
 Lab Meeting. \
 Check if current setting is working well with WandB. \
 Check the RANS framework, and how it is handling the discrete action. \
