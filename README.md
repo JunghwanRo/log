@@ -1,13 +1,16 @@
 # To be DONE
 
+Check the RANS framework, and how it is handling the discrete action. \
+Implement water tank observation and use and charge of it. \
 Prepare 1 page slide for Jan.31st. \ 
 Lab Meeting. \
 Check if current setting is working well with WandB. \
-Check the RANS framework, and how it is handling the discrete action. \
-Implement jet propulsion. (+ add water_tank as an observation, etc.). \
+
+
 
 # DONE 
 ### 2025.Jan.23
+Implement jet propulsion, discrete action. \
 Check if the set_mass function works in the GPU pipeline. -> It did not work with GPU. \
 Think about the super easy prototype to use as a test robot. To deploy a trained model on a real robot. \
 
