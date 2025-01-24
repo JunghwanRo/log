@@ -7,6 +7,7 @@ Prepare 1 page slide for Jan.31st. \
 
 ### Low Priority
 save_code for .py files, WandB. \
+non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Jan.24
