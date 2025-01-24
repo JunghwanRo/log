@@ -12,6 +12,7 @@ Check if current setting is working well with WandB. \
 
 # DONE 
 ### 2025.Jan.24
+Update Key events. \
 Check the RANS framework, and how it is handling the discrete action. \
 
 ### 2025.Jan.23
