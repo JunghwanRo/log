@@ -1,6 +1,7 @@
 # To be DONE
 
-Make SKRL work! convert code compatible with RSL-RL -> SKRL
+Understand the hyperparameters for SKRL. \
+Find proper hyperparameters for SKRL. \
 Implement water tank observation and use and charge of it. \
 Implement drag in the air. \
 Think about what is the best way to take into account the medium while calculating the forces. \
@@ -12,6 +13,7 @@ Check if current setting is working well with WandB. \
 
 # DONE 
 ### 2025.Jan.24
+Make SKRL work! convert code compatible with RSL-RL -> SKRL
 Update Key events. \
 Check the RANS framework, and how it is handling the discrete action. \
 
