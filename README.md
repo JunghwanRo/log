@@ -1,6 +1,6 @@
 # To be DONE
 
-Check the RANS framework, and how it is handling the discrete action. \
+Make SKRL work! convert code compatible with RSL-RL -> SKRL
 Implement water tank observation and use and charge of it. \
 Implement drag in the air. \
 Think about what is the best way to take into account the medium while calculating the forces. \
@@ -11,6 +11,9 @@ Check if current setting is working well with WandB. \
 
 
 # DONE 
+### 2025.Jan.24
+Check the RANS framework, and how it is handling the discrete action. \
+
 ### 2025.Jan.23
 Implement jet propulsion, discrete action. \
 Check if the set_mass function works in the GPU pipeline. -> It did not work with GPU. \
