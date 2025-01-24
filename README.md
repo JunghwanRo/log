@@ -1,6 +1,5 @@
 # To be DONE
 
-Understand the hyperparameters for SKRL. \
 Implement drag in the air. \
 Implement water tank observation and use and charge of it. \
 Think about what is the best way to take into account the medium while calculating the forces. \
@@ -11,6 +10,7 @@ save_code for .py files, WandB. \
 
 # DONE 
 ### 2025.Jan.24
+Understand the hyperparameters for SKRL. \
 Check the effect of clip_action. \
 Check if current setting is working well with WandB. \
 Find proper hyperparameters for SKRL. \
