@@ -6,7 +6,7 @@ Implement water tank observation and use and charge of it. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1 page slide for Jan.31st. \ 
 
-### Lower Priority
+### Low Priority
 save_code for .py files, WandB. \
 
 # DONE 
