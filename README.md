@@ -8,6 +8,7 @@ Prepare 1 page slide for Jan.31st. \
 
 # DONE 
 ### 2025.Jan.24
+Check the effect of clip_action. \
 Check if current setting is working well with WandB. \
 Find proper hyperparameters for SKRL. \
 What is SKRL? \
