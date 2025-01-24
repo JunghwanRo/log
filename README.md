@@ -1,6 +1,6 @@
 # To be DONE
 
-Implement drag in the air. \
+Check the training and parameters. \
 Implement water tank observation and use and charge of it. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1 page slide for Jan.31st. \ 
@@ -10,6 +10,7 @@ save_code for .py files, WandB. \
 
 # DONE 
 ### 2025.Jan.24
+Implement drag in the air. \
 Understand the hyperparameters for SKRL. \
 Check the effect of clip_action. \
 Check if current setting is working well with WandB. \
