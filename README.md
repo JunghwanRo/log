@@ -14,6 +14,7 @@ Check if current setting is working well with WandB. \
 
 # DONE 
 ### 2025.Jan.24
+SKRL version updated to 1.4.0. \
 Make SKRL work! convert code compatible with RSL-RL -> SKRL
 Update Key events. \
 Check the RANS framework, and how it is handling the discrete action. \
