@@ -1,6 +1,5 @@
 # To be DONE
 
-Read Safety Doc. \
 Update Squidbot with upper body and bottom body. \
 Implement water tank observation and use and charge of it. \
 Picture the lift force implementation. \
@@ -14,6 +13,7 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Jan.27
+Read Safety Doc. \
 
 ### 2025.Jan.24
 Check the training and parameters. \
