@@ -1,6 +1,5 @@
 # To be DONE
 
-Review the meeting - CTD, sensors for ocean observation. \
 Implement water tank observation and use and charge of it. \
 Picture the lift force implementation. \
 Cover the ideas got from the weekend. \
@@ -10,6 +9,7 @@ Added Mass. \
 Wind/Water Current. \
 
 ### Low Priority
+Review the meeting - CTD, sensors for ocean observation. \
 save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
