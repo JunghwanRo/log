@@ -15,6 +15,8 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Jan.27
+Review the meeting - CTD, sensors for ocean observation. \
+Weekly update with PhD. Pham. \
 Read Safety Doc. \
 
 ### 2025.Jan.24
