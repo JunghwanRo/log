@@ -1,8 +1,6 @@
 # To be DONE
 
 Review the meeting - CTD, sensors for ocean observation. \
-Pegasus simulator review. \
-Update Squidbot with upper body and bottom body. \
 Implement water tank observation and use and charge of it. \
 Picture the lift force implementation. \
 Cover the ideas got from the weekend. \
@@ -17,7 +15,8 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Jan.27
-
+Update Squidbot with upper body and bottom body. \
+Pegasus simulator review. \
 Weekly update with PhD. Pham. \
 Read Safety Doc. \
 
