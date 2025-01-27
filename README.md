@@ -7,6 +7,7 @@ Think about what is the best way to take into account the medium while calculati
 Prepare 1 page slide for Jan.31st. \ 
 Added Mass. \
 Wind/Water Current. \
+Consider the state for the medium and implement it if needed. \
 
 ### Low Priority
 Review the meeting - CTD, sensors for ocean observation. \
