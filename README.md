@@ -6,6 +6,8 @@ Picture the lift force implementation. \
 Cover the ideas got from the weekend. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1 page slide for Jan.31st. \ 
+Added Mass. \
+Wind/Water Current. \
 
 ### Low Priority
 save_code for .py files, WandB. \
