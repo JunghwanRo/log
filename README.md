@@ -1,21 +1,23 @@
 # To be DONE
 
-Implement water tank observation and use and charge of it. \
 Picture the lift force implementation. \
-Cover the ideas got from the weekend. \
 Think about what is the best way to take into account the medium while calculating the forces. \
-Prepare 1 page slide for Jan.31st. \ 
+Prepare 1-page slide for Jan.31st. \ 
 Added Mass. \
 Wind/Water Current. \
 Consider the state for the medium and implement it if needed. \
 
 ### Low Priority
-Review the meeting - CTD, sensors for ocean observation. \
 save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Jan.28
+
 ### 2025.Jan.27
+Cover the ideas got from the weekend. \
+Review the meeting - CTD, sensors for ocean observation. \
+Implement water tank observation and use and charge of it. \
 Update Squidbot with upper body and bottom body. \
 Pegasus simulator review. \
 Weekly update with PhD. Pham. \
