@@ -1,6 +1,8 @@
 # To be DONE
 
 Picture the lift force implementation. \
+Implement lift force. \
+Try ANSYS Fluent. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1-page slide for Jan.31st. \ 
 Added Mass. \
