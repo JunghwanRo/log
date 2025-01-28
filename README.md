@@ -3,6 +3,7 @@
 Picture the lift force implementation. \
 Implement lift force. \
 Implement lift-induced drag. \
+Implement Coriolis. \
 Try ANSYS Fluent. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1-page slide for Jan.31st. \ 
