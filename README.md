@@ -18,7 +18,7 @@ non-fixed energy harvesting underwater. ballon? \
 Implement lift force. \
 Implement lift-induced drag. \
 Check what happens if we change the translation/orientation of the robot default frame. -> No change. \
-
+Kevin welcome party. \
 ### 2025.Jan.28
 Lift force - MIT ocw. \
 Drone prototyping guid. \
