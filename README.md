@@ -1,9 +1,9 @@
 # To be DONE
 
-
 Added Mass. \
 Implement Coriolis. \
 Try ANSYS Fluent. \
+Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1-page slide for Jan.31st. \ 
 Wind/Water Current. \
