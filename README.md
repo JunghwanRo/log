@@ -17,6 +17,8 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Jan.28
+Lift force - MIT ocw. \
+Drone prototyping guid. \
 
 ### 2025.Jan.27
 Cover the ideas got from the weekend. \
