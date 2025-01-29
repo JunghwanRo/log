@@ -1,6 +1,6 @@
 # To be DONE
 
-Check what happens if we change the translation/orientation of the robot default frame. \
+
 Added Mass. \
 Implement Coriolis. \
 Try ANSYS Fluent. \
@@ -17,6 +17,7 @@ non-fixed energy harvesting underwater. ballon? \
 ### 2025.Jan.29
 Implement lift force. \
 Implement lift-induced drag. \
+Check what happens if we change the translation/orientation of the robot default frame. -> No change. \
 
 ### 2025.Jan.28
 Lift force - MIT ocw. \
