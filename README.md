@@ -1,13 +1,11 @@
 # To be DONE
 
-Picture the lift force implementation. \
-Implement lift force. \
-Implement lift-induced drag. \
+Check what happens if we change the translation/orientation of the robot default frame. \
+Added Mass. \
 Implement Coriolis. \
 Try ANSYS Fluent. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Prepare 1-page slide for Jan.31st. \ 
-Added Mass. \
 Wind/Water Current. \
 Consider the state for the medium and implement it if needed. \
 
@@ -16,9 +14,14 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Jan.29
+Implement lift force. \
+Implement lift-induced drag. \
+
 ### 2025.Jan.28
 Lift force - MIT ocw. \
 Drone prototyping guid. \
+Picture the lift force implementation. \
 
 ### 2025.Jan.27
 Cover the ideas got from the weekend. \
