@@ -6,8 +6,6 @@ Try ANSYS Fluent. \
 Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Wind/Water Current. \
-Consider the state for the medium and implement it if needed. \
-
 ### Low Priority
 save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
@@ -17,6 +15,7 @@ non-fixed energy harvesting underwater. ballon? \
 Prepare 1-page slide for Jan.31st. \ 
 Check the Isaac Sim Camera viewpoint control. \
 Make a video about the squidbot migration. \
+Consider the state for the medium and implement it if needed. \
 
 ### 2025.Jan.29
 Implement lift force. \
