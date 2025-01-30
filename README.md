@@ -5,7 +5,6 @@ Implement Coriolis. \
 Try ANSYS Fluent. \
 Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
-Prepare 1-page slide for Jan.31st. \ 
 Wind/Water Current. \
 Consider the state for the medium and implement it if needed. \
 
@@ -14,6 +13,11 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Jan.30 
+Prepare 1-page slide for Jan.31st. \ 
+Check the Isaac Sim Camera viewpoint control. \
+Make a video about the squidbot migration. \
+
 ### 2025.Jan.29
 Implement lift force. \
 Implement lift-induced drag. \
