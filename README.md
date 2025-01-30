@@ -16,6 +16,7 @@ Prepare 1-page slide for Jan.31st. \
 Check the Isaac Sim Camera viewpoint control. \
 Make a video about the squidbot migration. \
 Consider the state for the medium and implement it if needed. \
+Mass change. -> self._asset.root_physx_view.set_masses(self._current_mass.to("cpu"), self._ALL_INDICES_CPU). \
 
 ### 2025.Jan.29
 Implement lift force. \
