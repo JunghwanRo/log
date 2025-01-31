@@ -1,6 +1,6 @@
 # To be DONE
 
-Practice the presentation. \
+
 Play with Stamp Fly. Open-source Quadrotor. \
 How to print. \
 Added Mass. \
@@ -14,6 +14,9 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Jan.31
+Practice the presentation. \
+
 ### 2025.Jan.30 
 Prepare 1-page slide for Jan.31st. \ 
 Check the Isaac Sim Camera viewpoint control. \
