@@ -1,6 +1,7 @@
 # To be DONE
 
-Play with Stamp Fly. Open-source Quadrotor\
+Practice the presentation. \
+Play with Stamp Fly. Open-source Quadrotor. \
 How to print. \
 Added Mass. \
 Implement Coriolis. \
