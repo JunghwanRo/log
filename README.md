@@ -1,5 +1,6 @@
 # To be DONE
 
+Prepare weekly updates. \
 Read the papers from Dr. Pham. \
 Play with Stamp Fly. Open-source Quadrotor. \
 How to print. \
