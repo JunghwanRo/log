@@ -1,5 +1,7 @@
 # To be DONE
 
+Check IsaacSim 4.5 updates. \
+Check IsaacLab 2.0 updates. \
 Prepare weekly updates. \
 Read the papers from Dr. Pham. \
 Play with Stamp Fly. Open-source Quadrotor. \
