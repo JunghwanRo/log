@@ -1,6 +1,6 @@
 # To be DONE
 
-
+Read the papers from Dr. Pham. \
 Play with Stamp Fly. Open-source Quadrotor. \
 How to print. \
 Added Mass. \
