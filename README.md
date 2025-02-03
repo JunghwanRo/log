@@ -1,7 +1,5 @@
 # To be DONE
 
-Check IsaacSim 4.5 updates. \
-Check IsaacLab 2.0 updates. \
 Prepare weekly updates. \
 Read the papers from Dr. Pham. \
 Play with Stamp Fly. Open-source Quadrotor. \
@@ -17,6 +15,10 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Feb.03
+Check IsaacSim 4.5 updates. \
+Check IsaacLab 2.0 updates. \
+
 ### 2025.Jan.31
 Practice the presentation. \
 
