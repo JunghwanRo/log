@@ -1,6 +1,5 @@
 # To be DONE
 
-Prepare weekly updates. \
 Read the papers from Dr. Pham. \
 Play with Stamp Fly. Open-source Quadrotor. \
 How to print. \
@@ -16,6 +15,7 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Feb.03
+Prepare weekly updates. \
 Check IsaacSim 4.5 updates. \
 Check IsaacLab 2.0 updates. \
 
