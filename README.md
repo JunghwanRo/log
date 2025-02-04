@@ -1,7 +1,6 @@
 # To be DONE
 
-Read the papers from Dr. Pham. \
-Play with Stamp Fly. Open-source Quadrotor. \
+How to handle the mass change of the water tank. \
 How to print. \
 Added Mass. \
 Implement Coriolis. \
@@ -18,9 +17,11 @@ non-fixed energy harvesting underwater. ballon? \
 Prepare weekly updates. \
 Check IsaacSim 4.5 updates. \
 Check IsaacLab 2.0 updates. \
+Read the papers from Dr. Pham. \
 
 ### 2025.Jan.31
 Practice the presentation. \
+Play with Stamp Fly. Open-source Quadrotor. \
 
 ### 2025.Jan.30 
 Prepare 1-page slide for Jan.31st. \ 
