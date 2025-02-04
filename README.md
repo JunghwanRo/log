@@ -13,6 +13,9 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Feb.04
+Adjust the center of gravity and check in the simulation. \
+
 ### 2025.Feb.03
 Prepare weekly updates. \
 Check IsaacSim 4.5 updates. \
