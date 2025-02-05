@@ -15,7 +15,8 @@ non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
 ### 2025.Feb.05
-Read "
+Read "How to fly" paper. \
+Learn Soft and Biohybrid Robotics - Robert Katzschmann. \
 
 ### 2025.Feb.04
 The lift coefficient was adjusted to be more realistic. \
