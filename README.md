@@ -13,6 +13,9 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Feb.05
+Read "
+
 ### 2025.Feb.04
 The lift coefficient was adjusted to be more realistic. \
 Lift force takes into account the stall effect. \
