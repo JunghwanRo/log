@@ -9,6 +9,7 @@ Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Wind/Water Current. \
 ### Low Priority
+Read all robotics papers above 1000 citations. \
 save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
