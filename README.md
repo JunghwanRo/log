@@ -1,5 +1,7 @@
 # To be DONE
 
+Read "The grand challenges of Science Robotics. \
+Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 How to handle the mass change of the water tank. \
 How to print. \
 Added Mass. \
