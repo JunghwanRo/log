@@ -1,6 +1,5 @@
 # To be DONE
 
-Read "The grand challenges of Science Robotics. \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 How to handle the mass change of the water tank. \
 How to print. \
@@ -16,6 +15,9 @@ save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
 
 # DONE 
+### 2025.Feb.06
+Read "The grand challenges of Science Robotics. \
+
 ### 2025.Feb.05
 Read "How to fly" paper. \
 Learn Soft and Biohybrid Robotics - Robert Katzschmann. \
