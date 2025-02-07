@@ -23,6 +23,7 @@ Read "Use of an unmanned aerial-aquatic vehicle for acoustic sensing in freshwat
 Skim "PX4: A Node-Based Multithreaded Open Source Robotics Framework for Deeply Embedded Platforms." \
 Read "Features characterizing safe aerial-aquatic robots." \
 Skim "Camber-changing flapping hydrofoils for efficient and environmental-safe water propulsion system." \
+Read "UUV Simulator: A Gazebo-based Package for Underwater Intervention and Multi-Robot Simulation." \
 
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
