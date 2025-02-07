@@ -18,7 +18,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 # DONE 
 ### 2025.Feb.07
 Check Added mass applied agent. \
-Read "Bioinspiration review of Aquatic Unmanned Aerial Vehicle (AquaUAV). \
+Read "Bioinspiration review of Aquatic Unmanned Aerial Vehicle (AquaUAV)." \
+Read "Use of an unmanned aerial-aquatic vehicle for acoustic sensing in freshwater ecosystems." \
+Skimmed "PX4: A Node-Based Multithreaded Open Source Robotics Framework for Deeply Embedded Platforms." \
+
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
 Added Mass. \
