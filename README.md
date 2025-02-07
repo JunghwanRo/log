@@ -14,6 +14,9 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.07
+Check Added mass applied agent. \
+Read "Bioinspiration review of Aquatic Unmanned Aerial Vehicle (AquaUAV). \
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
 Added Mass. \
