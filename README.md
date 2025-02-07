@@ -21,6 +21,7 @@ Check Added mass applied agent. \
 Read "Bioinspiration review of Aquatic Unmanned Aerial Vehicle (AquaUAV)." \
 Read "Use of an unmanned aerial-aquatic vehicle for acoustic sensing in freshwater ecosystems." \
 Skimmed "PX4: A Node-Based Multithreaded Open Source Robotics Framework for Deeply Embedded Platforms." \
+Read "Features characterizing safe aerial-aquatic robots." \
 
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
