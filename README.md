@@ -1,5 +1,6 @@
 # To be DONE
 
+Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
 How to print. \
 Implement Coriolis. \
