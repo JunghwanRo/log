@@ -1,22 +1,23 @@
 # To be DONE
 
-Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 How to handle the mass change of the water tank. \
 How to print. \
-Added Mass. \
 Implement Coriolis. \
 Try ANSYS Fluent. \
 Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Wind/Water Current. \
 ### Low Priority
-Read all robotics papers above 1000 citations. \
+Read all robotics papers above 1000? citations. \
 save_code for .py files, WandB. \
 non-fixed energy harvesting underwater. ballon? \
+Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
+Added Mass. \
+Read "Challenges in Control and Autonomy of Unmanned Aerial-Aquatic Vehicles." \
 
 ### 2025.Feb.05
 Read "How to fly" paper. \
