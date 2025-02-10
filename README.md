@@ -1,5 +1,6 @@
 # To be DONE
 
+Check Added mass sim dt. \
 Check the data acquisition and visualization. \
 Improve Buoyancy. \
 Apply surface tension. \
