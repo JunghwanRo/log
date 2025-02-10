@@ -1,5 +1,6 @@
 # To be DONE
 
+Check the data acquisition and visualization. \
 Improve Buoyancy. \
 Apply surface tension. \
 Download all interesting lectures from ETHZ-robotics. \
