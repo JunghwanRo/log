@@ -1,5 +1,6 @@
 # To be DONE
 
+Make files to save themselves if run training. \
 Improve Buoyancy. \
 Apply surface tension. \
 Download all interesting lectures from ETHZ-robotics. \
