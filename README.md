@@ -1,6 +1,5 @@
 # To be DONE
 
-Make files to save themselves if running training. \
 Improve Buoyancy. \
 Apply surface tension. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -18,6 +17,9 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.10
+Make files to save themselves if running training. \
+
 ### 2025.Feb.07
 Check Added mass applied agent. \
 Read "Bioinspiration review of Aquatic Unmanned Aerial Vehicle (AquaUAV)." \
