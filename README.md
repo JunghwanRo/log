@@ -1,12 +1,10 @@
 # To be DONE
 
-Check Added mass sim dt. \
-Check the data acquisition and visualization. \
 Improve Buoyancy. \
+Check Added mass sim dt. \
 Apply surface tension. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
-How to print. \
 Implement Coriolis. \
 Try ANSYS Fluent. \
 Update the exact force applying points. \
@@ -21,6 +19,8 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 # DONE 
 ### 2025.Feb.10
 Make files to save themselves if running training. \
+Check the data acquisition and visualization. \
+Weekly Update with PhD. Pham. \
 
 ### 2025.Feb.07
 Check Added mass applied agent. \
@@ -30,6 +30,7 @@ Skim "PX4: A Node-Based Multithreaded Open Source Robotics Framework for Deeply 
 Read "Features characterizing safe aerial-aquatic robots." \
 Skim "Camber-changing flapping hydrofoils for efficient and environmental-safe water propulsion system." \
 Read "UUV Simulator: A Gazebo-based Package for Underwater Intervention and Multi-Robot Simulation." \
+How to print. \
 
 ### 2025.Feb.06
 Read "The grand challenges of Science Robotics. \
