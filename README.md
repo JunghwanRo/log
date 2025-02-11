@@ -21,6 +21,7 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 ### 2025.Feb.11
 Lab guide for Prof. Lee. \
 Add moment etc. for lift force. \
+Read "Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces." \
 
 ### 2025.Feb.10
 Make files to save themselves if running training. \
