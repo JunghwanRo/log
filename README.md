@@ -1,5 +1,6 @@
 # To be DONE
 
+Seperate the lift force to lift force center. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
 Apply surface tension. \
