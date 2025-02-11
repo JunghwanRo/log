@@ -17,6 +17,10 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.11
+Lab guide for Prof. Lee. \
+Add moment etc. for lift force. \
+
 ### 2025.Feb.10
 Make files to save themselves if running training. \
 Check the data acquisition and visualization. \
