@@ -1,5 +1,6 @@
 # To be DONE
 
+Check if the problem is CA. \
 Check glider simulator. \
 Separate the lift force from the lift force center. \
 Improve Buoyancy. \
