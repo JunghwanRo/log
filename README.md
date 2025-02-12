@@ -1,5 +1,6 @@
 # To be DONE
 
+Change buoyancy, hydrodynamic, aerodynamic force calculation function input. \
 Separate the lift force from the lift force center. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
