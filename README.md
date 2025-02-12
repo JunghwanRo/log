@@ -22,6 +22,8 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 ### 2025.Feb.12
 Check lift force and torque components. \
 Check why lift force[3] is the same as lift force[5]. \
+Skim "Undulatory Swimming Performance Explored With a Biorobotic Fish and Measured by Soft Sensors and Particle Image Velocimetry." \
+Skim "Omni-Drone: on the Design of a Novel Aerial Manipulator with Omni-directional Workspace." \
 
 ### 2025.Feb.11
 Lab guide for Prof. Lee. \
