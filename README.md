@@ -1,5 +1,6 @@
 # To be DONE
 
+Check why lift force[3] is same with lift force[5]. \
 Seperate the lift force to lift force center. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
