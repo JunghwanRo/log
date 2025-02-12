@@ -1,7 +1,6 @@
 # To be DONE
 
-Check why lift force[3] is same with lift force[5]. \
-Seperate the lift force to lift force center. \
+Separate the lift force from the lift force center. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
 Apply surface tension. \
@@ -19,9 +18,13 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.12
+Check lift force and torque components. \
+Check why lift force[3] is the same as lift force[5]. \
+
 ### 2025.Feb.11
 Lab guide for Prof. Lee. \
-Add moment etc. for lift force. \
+Add moment, etc., for lift force. \
 Read "Aerial-aquatic robots capable of crossing the air-water boundary and hitchhiking on surfaces." \
 
 ### 2025.Feb.10
