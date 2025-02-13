@@ -20,6 +20,9 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.13
+
+
 ### 2025.Feb.12
 Check lift force and torque components. \
 Check why lift force[3] is the same as lift force[5]. \
