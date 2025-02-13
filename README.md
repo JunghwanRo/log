@@ -4,7 +4,6 @@ Why Episode_Reward/prog is capped. \
 Check glider simulator. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
-Apply surface tension. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
 Implement Coriolis. \
@@ -24,6 +23,7 @@ Check if the problem is CA. \
 Separate the lift force from the root rigid body center. \
 Find Lift force working version. \
 Skim "MEDUSA: A Multi-Environment Dual-Robot for Underwater Sample Acquisition." \
+Apply surface tension. -> Surface tension neglected for robot > 100g. \
 
 ### 2025.Feb.12
 Check lift force and torque components. \
