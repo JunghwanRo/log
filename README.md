@@ -1,8 +1,7 @@
 # To be DONE
 
-Check if the problem is CA. \
+Why Episode_Reward/prog is capped. \
 Check glider simulator. \
-Separate the lift force from the lift force center. \
 Improve Buoyancy. \
 Check Added mass sim dt. \
 Apply surface tension. \
@@ -21,7 +20,8 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
 ### 2025.Feb.13
-
+Check if the problem is CA. \
+Separate the lift force from the root rigid body center. \
 
 ### 2025.Feb.12
 Check lift force and torque components. \
