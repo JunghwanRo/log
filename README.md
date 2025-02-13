@@ -24,6 +24,7 @@ Separate the lift force from the root rigid body center. \
 Find Lift force working version. \
 Skim "MEDUSA: A Multi-Environment Dual-Robot for Underwater Sample Acquisition." \
 Apply surface tension. -> Surface tension neglected for robot > 100g. \
+Read "Encyclopaedia of Robotics: Bioinspired Aerial Robots." \
 
 ### 2025.Feb.12
 Check lift force and torque components. \
