@@ -22,6 +22,8 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 ### 2025.Feb.13
 Check if the problem is CA. \
 Separate the lift force from the root rigid body center. \
+Find Lift force working version. \
+Skim "MEDUSA: A Multi-Environment Dual-Robot for Underwater Sample Acquisition." \
 
 ### 2025.Feb.12
 Check lift force and torque components. \
