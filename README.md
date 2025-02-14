@@ -1,5 +1,6 @@
 # To be DONE
 
+Check MORSE Simulater for buoyancy. \
 Why Episode_Reward/prog is capped. \
 Check glider simulator. \
 Improve Buoyancy. \
@@ -18,6 +19,9 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE 
+### 2025.Feb.14
+
+
 ### 2025.Feb.13
 Check if the problem is CA. \
 Separate the lift force from the root rigid body center. \
