@@ -19,6 +19,9 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE
+### 2025.Feb.16
+Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
+
 ### 2025.Feb.14
 Skim "A high maneuvering motion strategy and stable control method for tandem twin-rotor aerial-aquatic vehicles near the water surface." \
 Skim "Review of hybrid aquatic-aerial vehicle(HAAV): Classifications, current status, applications, challenges and technology perspectives." \
