@@ -20,6 +20,7 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 # DONE
 ### 2025.Feb.16
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
+Read "Hard questions for soft robotics." \
 
 ### 2025.Feb.14
 Skim "A high maneuvering motion strategy and stable control method for tandem twin-rotor aerial-aquatic vehicles near the water surface." \
