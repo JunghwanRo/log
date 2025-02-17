@@ -1,9 +1,8 @@
 # To be DONE
 
-Prepare Weekly Updates. (Dr. Pham) \
+Check the buoyancy authenticity. \
 Why Episode_Reward/prog is capped. \
-Check glider simulator. \
-Improve Buoyancy. <- Distributed Buoyancy. \
+Check a glider simulator. \
 Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
@@ -19,6 +18,8 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE
 ### 2025.Feb.17
+Prepare Weekly Updates. (Dr. Pham) \
+Improve Buoyancy. <- Distributed Buoyancy. \
 
 ### 2025.Feb.16
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
