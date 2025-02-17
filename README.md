@@ -1,9 +1,9 @@
 # To be DONE
 
-Check MORSE Simulater for buoyancy. \
+Prepare Weekly Updates. (Dr. Pham) \
 Why Episode_Reward/prog is capped. \
 Check glider simulator. \
-Improve Buoyancy. \
+Improve Buoyancy. <- Distributed Buoyancy. \
 Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
@@ -18,6 +18,8 @@ non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 
 # DONE
+### 2025.Feb.17
+
 ### 2025.Feb.16
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
 Read "Hard questions for soft robotics." \
@@ -26,6 +28,7 @@ Read "Hard questions for soft robotics." \
 Skim "A high maneuvering motion strategy and stable control method for tandem twin-rotor aerial-aquatic vehicles near the water surface." \
 Skim "Review of hybrid aquatic-aerial vehicle(HAAV): Classifications, current status, applications, challenges and technology perspectives." \
 save_code for .py files, WandB. \
+Check MORSE Simulater for buoyancy. \
 
 ### 2025.Feb.13
 Check if the problem is CA. \
