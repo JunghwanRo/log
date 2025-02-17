@@ -1,7 +1,6 @@
 # To be DONE
 
 Check the buoyancy authenticity. \
-Why Episode_Reward/prog is capped. \
 Check a glider simulator. \
 Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -20,6 +19,7 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
 Improve Buoyancy. <- Distributed Buoyancy. \
+Why Episode_Reward/prog is capped. -> start prev_dist always similar, end always around 0. \
 
 ### 2025.Feb.16
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
