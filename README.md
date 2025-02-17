@@ -1,7 +1,6 @@
 # To be DONE
 
 Read "Design, fabrication and control of soft robots." \
-Check the buoyancy authenticity. \
 Check a glider simulator. \
 Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -15,12 +14,16 @@ Wind/Water Current. \
 Read all robotics papers above 1000? citations. \
 non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
+Take Drawabox Lessons. \
 
 # DONE
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
 Improve Buoyancy. <- Distributed Buoyancy. \
 Why Episode_Reward/prog is capped. -> start prev_dist always similar, end always around 0. \
+Check the buoyancy authenticity. \
+Read "Design, fabrication and control of soft robots." \
+Took "Lesson 0, Introduction, Changing your mindset" - Drawabox. \
 
 ### 2025.Feb.16
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". 2nd Lecture. \
