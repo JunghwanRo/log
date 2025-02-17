@@ -1,5 +1,6 @@
 # To be DONE
 
+Read "Design, fabrication and control of soft robots." \
 Check the buoyancy authenticity. \
 Check a glider simulator. \
 Check Added mass sim dt. \
