@@ -1,7 +1,6 @@
 # To be DONE
 
 Check a glider simulator. \
-Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
 Implement Coriolis. \
@@ -19,6 +18,7 @@ Take Drawabox Lessons. \
 ### 2025.Feb.18
 Draft an email for WHOI. \
 Skim inflatable origami structure. \
+Check Added mass sim dt. \
 
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
