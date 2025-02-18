@@ -1,6 +1,5 @@
 # To be DONE
 
-Read "Design, fabrication and control of soft robots." \
 Check a glider simulator. \
 Check Added mass sim dt. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -17,6 +16,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.18
+Draft an email for WHOI. \
+Skim inflatable origami structure. \
+
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
 Improve Buoyancy. <- Distributed Buoyancy. \
