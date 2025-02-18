@@ -1,6 +1,5 @@
 # To be DONE
 
-Read blender basic wiki. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
@@ -21,6 +20,7 @@ Draft an email for WHOI. \
 Skim inflatable origami structure. \
 Check Added mass sim dt. \
 Finish Lesson 0 - Drawabox. \
+Read blender basic wiki. \
 
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
