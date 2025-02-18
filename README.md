@@ -19,6 +19,7 @@ Take Drawabox Lessons. \
 Draft an email for WHOI. \
 Skim inflatable origami structure. \
 Check Added mass sim dt. \
+Finish Lesson 0 - Drawabox. \
 
 ### 2025.Feb.17
 Prepare Weekly Updates. (Dr. Pham) \
