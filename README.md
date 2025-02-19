@@ -21,6 +21,7 @@ Read "Augmenting Compliance With Motion Generation Through Imitation Learning Us
 Finished Blender Tutorial Day 1. \
 Read "Soft yet Strong Inflatable Structures for a Foldable and Portable Mobility." \
 Skim "Sticky Actuator: Free-Form Planar Actuators for Animated Objects." \
+Read "Conformable Inflatable Wings Woven Using a Jacquard Technique." \
 
 ### 2025.Feb.18
 Draft an email for WHOI. \
