@@ -1,5 +1,6 @@
 # To be DONE
 
+Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
 How to handle the mass change of the water tank. \
