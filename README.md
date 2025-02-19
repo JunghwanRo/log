@@ -15,6 +15,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.19
+Read "Augmenting Compliance With Motion Generation Through Imitation Learning Using Drop-Stitch Reinforced Inflatable Robot Arm With Rigid Joints." \
+
 ### 2025.Feb.18
 Draft an email for WHOI. \
 Skim inflatable origami structure. \
