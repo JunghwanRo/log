@@ -19,6 +19,7 @@ Take Drawabox Lessons. \
 Read "Augmenting Compliance With Motion Generation Through Imitation Learning Using Drop-Stitch Reinforced Inflatable Robot Arm With Rigid Joints." \
 Finished Blender Tutorial Day 1. \
 Read "Soft yet Strong Inflatable Structures for a Foldable and Portable Mobility." \
+Skim "Sticky Actuator: Free-Form Planar Actuators for Animated Objects." \
 
 ### 2025.Feb.18
 Draft an email for WHOI. \
