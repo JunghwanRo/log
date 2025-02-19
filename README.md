@@ -18,6 +18,7 @@ Take Drawabox Lessons. \
 ### 2025.Feb.19
 Read "Augmenting Compliance With Motion Generation Through Imitation Learning Using Drop-Stitch Reinforced Inflatable Robot Arm With Rigid Joints." \
 Finished Blender Tutorial Day 1. \
+Read "Soft yet Strong Inflatable Structures for a Foldable and Portable Mobility." \
 
 ### 2025.Feb.18
 Draft an email for WHOI. \
