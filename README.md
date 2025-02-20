@@ -16,6 +16,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.20
+Read "The Morphing Wing." \
+
 ### 2025.Feb.19
 Read "Augmenting Compliance With Motion Generation Through Imitation Learning Using Drop-Stitch Reinforced Inflatable Robot Arm With Rigid Joints." \
 Finished Blender Tutorial Day 1. \
