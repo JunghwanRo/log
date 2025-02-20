@@ -18,6 +18,7 @@ Take Drawabox Lessons. \
 # DONE
 ### 2025.Feb.20
 Read "The Morphing Wing." \
+Skim "Aerodynamic Exploration of Corrugated Airfoil Based on NACA0030 for Inflatable Wing Structure." \
 
 ### 2025.Feb.19
 Read "Augmenting Compliance With Motion Generation Through Imitation Learning Using Drop-Stitch Reinforced Inflatable Robot Arm With Rigid Joints." \
