@@ -16,6 +16,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.22
+Finish Drawabox Lesson 1. \
+
 ### 2025.Feb.21
 Finish Blender Tutorial Day 2. \
 Follow the Week 1 task. Reading. \
