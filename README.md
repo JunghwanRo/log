@@ -16,6 +16,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.23
+Finish Rhino3d tutorial. \
+
 ### 2025.Feb.22
 Finish Drawabox Lesson 1. \
 
