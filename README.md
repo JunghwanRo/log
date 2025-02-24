@@ -1,6 +1,6 @@
 # To be DONE
 
-
+Send email to fabric manufacturer. \
 Finish Flight mechanics - The basis. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
