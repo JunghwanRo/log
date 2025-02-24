@@ -1,5 +1,7 @@
 # To be DONE
 
+
+Finish Flight mechanics - The basis. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -16,6 +18,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.24
+Prepare Weekly Update Meeting. \
+Do the Weekly update meeting. \
+
 ### 2025.Feb.23
 Finish Rhino3d tutorial. \
 
