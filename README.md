@@ -19,7 +19,9 @@ Take Drawabox Lessons. \
 
 # DONE
 ### 2025.Feb.25
-
+Read various most cited articles. \
+Finish Flight Specialization - Course 3. \
+Finish Flight Specialization - Course 4. \
 
 ### 2025.Feb.24
 Prepare the Weekly Update Meeting. \
