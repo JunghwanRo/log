@@ -1,7 +1,9 @@
 # To be DONE
 
-
-
+Read "Self-powered soft robot in the Mariana Trench." \
+Read "Untethered soft robotics." \
+Read "Soft Robots Modeling: A Structured Overview." \
+Check what can I do for the FPV prototyping. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
