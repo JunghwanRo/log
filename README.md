@@ -14,16 +14,19 @@ Update the exact force applying points. \
 Think about what is the best way to take into account the medium while calculating the forces. \
 Wind/Water Current. \
 ### Low Priority
-Read all robotics papers above 1000? citations. \
 non-fixed energy harvesting underwater. ballon? \
 Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.26
+
+
 ### 2025.Feb.25
 Read various most cited articles. \
 Finish Flight Specialization - Course 3. \
 Finish Flight Specialization - Course 4. \
+Check all robotics papers above 1000? citations. \
 
 ### 2025.Feb.24
 Prepare the Weekly Update Meeting. \
