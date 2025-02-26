@@ -1,6 +1,5 @@
 # To be DONE
 
-Read "Untethered soft robotics." \
 Read "Soft Robots Modeling: A Structured Overview." \
 Check what can I do for the FPV prototyping. \
 Check the parameters of drop stitch fabric. \
@@ -20,6 +19,7 @@ Take Drawabox Lessons. \
 # DONE
 ### 2025.Feb.26
 Skim "Self-powered soft robot in the Mariana Trench." \
+Skim "Untethered soft robotics." \
 
 ### 2025.Feb.25
 Read various most cited articles. \
