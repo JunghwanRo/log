@@ -20,6 +20,7 @@ Take Drawabox Lessons. \
 ### 2025.Feb.26
 Skim "Self-powered soft robot in the Mariana Trench." \
 Skim "Untethered soft robotics." \
+Check required component and shopping place for Scimitar: 3D-printed flying wing
 
 ### 2025.Feb.25
 Read various most cited articles. \
