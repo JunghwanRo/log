@@ -1,6 +1,5 @@
 # To be DONE
 
-Read "Soft Robots Modeling: A Structured Overview." \
 Check what can I do for the FPV prototyping. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
@@ -20,6 +19,7 @@ Take Drawabox Lessons. \
 ### 2025.Feb.26
 Skim "Self-powered soft robot in the Mariana Trench." \
 Skim "Untethered soft robotics." \
+Skim "Soft Robots Modeling: A Structured Overview." \
 Check required component and shopping place for Scimitar: 3D-printed flying wing
 
 ### 2025.Feb.25
