@@ -1,6 +1,7 @@
 # To be DONE
 
-Check what can I do for the FPV prototyping. \
+3D print the components for the drone. \
+Do Autodesk Official TUtorial. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -16,6 +17,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.27
+Make a shopping list for drone. \
+Check what can I do for the FPV prototyping. \
+
 ### 2025.Feb.26
 Skim "Self-powered soft robot in the Mariana Trench." \
 Skim "Untethered soft robotics." \
