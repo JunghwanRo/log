@@ -1,8 +1,9 @@
 # To be DONE
 
+Read "OpenPneu: Compact Platform for Pneumatic Actuation with Multi-Channels." \
+Read "A Control and Drive System for Pneumatic Soft Robots: PneuSoRD." \
 Change password for EMPA. \
 3D print the components for the drone. \
-Do Autodesk Official TUtorial. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
 Download all interesting lectures from ETHZ-robotics. \
@@ -21,6 +22,7 @@ Take Drawabox Lessons. \
 ### 2025.Feb.27
 Make a shopping list for drone. \
 Check what can I do for the FPV prototyping. \
+Do Autodesk Official TUtorial. \
 
 ### 2025.Feb.26
 Skim "Self-powered soft robot in the Mariana Trench." \
