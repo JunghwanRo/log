@@ -19,6 +19,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Feb.28
+Slice all 3d components of Scimitar v2. \
+
 ### 2025.Feb.27
 Make a shopping list for drone. \
 Check what can I do for the FPV prototyping. \
