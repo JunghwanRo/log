@@ -21,6 +21,7 @@ Take Drawabox Lessons. \
 # DONE
 ### 2025.Mar. 04
 Learn how to 3d print foaming material. \
+Read "The Swimming-Habits of the Sunfish." \
 
 ### 2025.Mar. 03
 TU Delft Lecture, Aero Engineering. \
