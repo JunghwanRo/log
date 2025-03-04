@@ -19,6 +19,9 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Mar. 04
+Learn how to 3d print foaming material. \
+
 ### 2025.Mar. 03
 TU Delft Lecture, Aero Engineering. \
 EPFL PhD WonDong Shin Defense. \
