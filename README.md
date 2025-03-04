@@ -19,6 +19,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Mar. 03
+TU Delft Lecture, Aero Engineering. \
+EPFL PhD WonDong Shin Defense. \
+
 ### 2025.Feb.28
 Slice all 3d components of Scimitar v2. \
 
