@@ -1,8 +1,5 @@
 # To be DONE
 
-Read "OpenPneu: Compact Platform for Pneumatic Actuation with Multi-Channels." \
-Read "A Control and Drive System for Pneumatic Soft Robots: PneuSoRD." \
-Change password for EMPA. \
 3D print the components for the drone. \
 Check the parameters of drop stitch fabric. \
 Check a glider simulator. \
@@ -26,6 +23,9 @@ Buoyancy changes due to volume change. \
 ### 2025.Mar. 04
 Learn how to 3d print foaming material. \
 Read "The Swimming-Habits of the Sunfish." \
+Change password for EMPA. \
+Read "OpenPneu: Compact Platform for Pneumatic Actuation with Multi-Channels." \
+Read "A Control and Drive System for Pneumatic Soft Robots: PneuSoRD." \
 
 ### 2025.Mar. 03
 TU Delft Lecture, Aero Engineering. \
