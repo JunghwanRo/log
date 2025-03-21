@@ -19,6 +19,10 @@ Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
 Take Drawabox Lessons. \
 
 # DONE
+### 2025.Mar. 21
+Mass change for water charging. \
+Buoyancy changes due to volume change. \
+
 ### 2025.Mar. 04
 Learn how to 3d print foaming material. \
 Read "The Swimming-Habits of the Sunfish." \
