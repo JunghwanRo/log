@@ -1,21 +1,9 @@
 # To be DONE
 
-3D print the components for the drone. \
-Check the parameters of drop stitch fabric. \
-Check a glider simulator. \
-Download all interesting lectures from ETHZ-robotics. \
-How to handle the mass change of the water tank. \
-Implement Coriolis. \
-Try ANSYS Fluent. \
-Update the exact force applying points. \
-Think about what is the best way to take into account the medium while calculating the forces. \
-Wind/Water Current. \
-### Low Priority
-non-fixed energy harvesting underwater. ballon? \
-Watch "Soft and Biohybrid Robotics - Robert Katzschmann". \
-Take Drawabox Lessons. \
-
 # DONE
+### 2025.Apr. 1st
+
+
 ### 2025.Mar. 21
 Mass change for water charging. \
 Buoyancy changes due to volume change. \
