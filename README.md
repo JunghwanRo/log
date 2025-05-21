@@ -3,7 +3,7 @@
 # DONE
 ### 2025.Apr. 1st
 
-"""
+```
 #include <stdio.h>
 #include <SDL.h>
 
@@ -36,7 +36,7 @@ int main(int argc, char *argv[])
     return 0;
 }
 
-"""
+```
 
 ### 2025.Mar. 21
 Mass change for water charging. \
