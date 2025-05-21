@@ -31,11 +31,13 @@ int main(int argc, char *argv[])
             continue;
         }
 
+        /* CORRECTED: get GUID from the open SDL_Joystick*, not from an int */
+        SDL_JoystickGUID guid_struct = SDL_JoystickGetGUID(joy);
         char guid[33];
-        SDL_JoystickGetGUIDString(SDL_JoystickGetGUID(SDL_JoystickGetDeviceGUID(i)),
-                                  guid, sizeof(guid));
-        printf("  [%d] %-24s GUID: %s\n", i,
-               name ? name : "Unknown", guid);
+        SDL_JoystickGetGUIDString(guid_struct, guid, sizeof(guid));
+
+        printf("  [%d] %-24s GUID: %s\n",
+               i, name ? name : "Unknown", guid);
 
         SDL_JoystickClose(joy);
     }
