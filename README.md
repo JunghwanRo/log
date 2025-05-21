@@ -3,6 +3,40 @@
 # DONE
 ### 2025.Apr. 1st
 
+"""
+#include <stdio.h>
+#include <SDL.h>
+
+int main(int argc, char *argv[])
+{
+    if (SDL_Init(SDL_INIT_JOYSTICK) != 0) {
+        fprintf(stderr, "SDL_Init Error: %s\n", SDL_GetError());
+        return 1;
+    }
+
+    if (SDL_NumJoysticks() < 1) {
+        fprintf(stderr, "No joysticks detected\n");
+        SDL_Quit();
+        return 1;
+    }
+
+    SDL_Joystick *joy = SDL_JoystickOpen(0);
+    if (!joy) {
+        fprintf(stderr, "SDL_JoystickOpen Error: %s\n", SDL_GetError());
+        SDL_Quit();
+        return 1;
+    }
+
+    char guid[33];
+    SDL_JoystickGetGUIDString(SDL_JoystickGetGUID(joy), guid, sizeof(guid));
+    printf("Joystick GUID: %s\n", guid);
+
+    SDL_JoystickClose(joy);
+    SDL_Quit();
+    return 0;
+}
+
+"""
 
 ### 2025.Mar. 21
 Mass change for water charging. \
