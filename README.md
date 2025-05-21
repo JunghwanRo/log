@@ -4,6 +4,12 @@
 ### 2025.Apr. 1st
 
 ```
+export SDL_GAMECONTROLLERCONFIG="03000000abcd1234abcd5678ef000100,MyController,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,platform:Linux"
+jstest-sdl --gamecontroller 0
+
+```
+
+```
 #include <stdio.h>
 #include <SDL.h>
 
