@@ -14,24 +14,32 @@ int main(int argc, char *argv[])
         return 1;
     }
 
-    if (SDL_NumJoysticks() < 1) {
+    int n = SDL_NumJoysticks();
+    if (n < 1) {
         fprintf(stderr, "No joysticks detected\n");
         SDL_Quit();
         return 1;
     }
 
-    SDL_Joystick *joy = SDL_JoystickOpen(0);
-    if (!joy) {
-        fprintf(stderr, "SDL_JoystickOpen Error: %s\n", SDL_GetError());
-        SDL_Quit();
-        return 1;
+    printf("Detected %d joystick(s):\n", n);
+    for (int i = 0; i < n; ++i) {
+        const char *name = SDL_JoystickNameForIndex(i);
+        SDL_Joystick *joy = SDL_JoystickOpen(i);
+        if (!joy) {
+            fprintf(stderr, "  [%d] %s — Error opening: %s\n",
+                    i, name ? name : "Unknown", SDL_GetError());
+            continue;
+        }
+
+        char guid[33];
+        SDL_JoystickGetGUIDString(SDL_JoystickGetGUID(SDL_JoystickGetDeviceGUID(i)),
+                                  guid, sizeof(guid));
+        printf("  [%d] %-24s GUID: %s\n", i,
+               name ? name : "Unknown", guid);
+
+        SDL_JoystickClose(joy);
     }
 
-    char guid[33];
-    SDL_JoystickGetGUIDString(SDL_JoystickGetGUID(joy), guid, sizeof(guid));
-    printf("Joystick GUID: %s\n", guid);
-
-    SDL_JoystickClose(joy);
     SDL_Quit();
     return 0;
 }
