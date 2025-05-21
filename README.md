@@ -4,6 +4,13 @@
 ### 2025.Apr. 1st
 
 ```
+030068cd09120000544f000011010000,MyController,
+  a:b0,b:b1,x:b3,y:b4,back:b10,guide:b12,start:b11,
+  leftstick:b13,rightstick:b14,leftshoulder:b6,rightshoulder:b7,
+  leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,
+  crc:cd68,platform:Linux
+```
+```
 export SDL_GAMECONTROLLERCONFIG="03000000abcd1234abcd5678ef000100,MyController,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,platform:Linux"
 jstest-sdl --gamecontroller 0
 
